@@ -1,9 +1,9 @@
 # Excel-Jump-To-References
 
-### Execution Image
+## Execution Image
 ![image](https://github.com/user-attachments/assets/ed9fcaaa-10a4-4b80-adb0-b669ef0ec3a2)
 
-### How to Use
+## How to Use
 - This is a VBA script that lists and allows you to jump to a selected cell when the currently selected cell in Excel has multiple references.
 - You can use it by importing `import/JumpForm.frm` and `import/JumpForm.frx` as forms, and `import/JumpModule.bas` as a module.
 - If you register it in your personal macro workbook, it can be used in any Excel file.
